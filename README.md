@@ -1,2 +1,2 @@
 # NoneButTheBrave
-DeepLearningProject!! - goal is to use text to predict ....something
+What can a note tell you about death?
