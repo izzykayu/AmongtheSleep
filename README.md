@@ -1,6 +1,6 @@
 # Among the Sleep
 
->Come Sleep! O Sleep, the certain knot of peace,
->The baiting place of wit, the balm of woe,
->The poor man's wealth, the prisoner's release
+> _"Come Sleep! O Sleep, the certain knot of peace,_
+>_The baiting place of wit, the balm of woe,_
+>The poor man's wealth, the prisoner's release."_
 —Sir Philip Sidney
