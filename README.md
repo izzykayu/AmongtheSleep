@@ -1,11 +1,9 @@
 # Among the Sleep
 
-
-
-   _"Come Sleep! O Sleep, the certain knot of peace,_    
-   _The baiting place of wit, the balm of woe,_     
-   _The poor man's wealth, the prisoner's release."_      
-          —Sir Philip Sidney
+ _"Come Sleep! O Sleep, the certain knot of peace,_     
+ _The baiting place of wit, the balm of woe,_    
+ _The poor man's wealth, the prisoner's release."_                   
+          —Sir Philip Sidney      
 
 
 
@@ -15,7 +13,7 @@
 ### Our repo for the PhysioNet Computing in Cardiology Challenge 2018
 
 
-
+   #### t h e       m o t i v a t i o n :
 Because lack of sleep leads to a multitude of negative conditions, it is important to research
 topic.
 
