@@ -2,13 +2,10 @@
 
 
 
-_"Come Sleep! O Sleep, the certain knot of peace,_
-
-_The baiting place of wit, the balm of woe,_
-
-_The poor man's wealth, the prisoner's release."_
-
-—Sir Philip Sidney
+   _"Come Sleep! O Sleep, the certain knot of peace,_    
+   _The baiting place of wit, the balm of woe,_     
+   _The poor man's wealth, the prisoner's release."_      
+          —Sir Philip Sidney
 
 
 
@@ -16,7 +13,6 @@ _The poor man's wealth, the prisoner's release."_
 
 
 ### Our repo for the PhysioNet Computing in Cardiology Challenge 2018
-
 
 
 
