@@ -1,0 +1,61 @@
+8056.789245386493 better than None, saving model
+#############################################
+# epoch  -          0 | time(s) -    179.30 #
+# T loss -    9284.07 | V loss -    8056.79 #
+8056.7882577097835 better than None, saving model
+#############################################
+# epoch  -          1 | time(s) -    177.72 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.780307593584 better than None, saving model
+#############################################
+# epoch  -          2 | time(s) -    177.90 #
+# T loss -    9939.36 | V loss -    8056.78 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          3 | time(s) -    177.80 #
+# T loss -    9711.00 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          4 | time(s) -    177.77 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          5 | time(s) -    177.84 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          6 | time(s) -    177.75 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          7 | time(s) -    177.44 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          8 | time(s) -    177.82 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -          9 | time(s) -    177.93 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -         10 | time(s) -    177.90 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -         11 | time(s) -    177.97 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -         12 | time(s) -    179.00 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -         13 | time(s) -    179.59 #
+# T loss -    9939.37 | V loss -    8056.79 #
+8056.791881918819 better than None, saving model
+#############################################
+# epoch  -         14 | time(s) -    179.89 #
+# T loss -    9939.37 | V loss -    8056.79 #
+#############################################

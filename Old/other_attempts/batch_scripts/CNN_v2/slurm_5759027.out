@@ -1,0 +1,9 @@
+using cuda
+Traceback (most recent call last):
+  File "main.py", line 231, in <module>
+    criterion = nn.MSELoss(amsgrad=True, size_average=False)
+TypeError: __init__() got an unexpected keyword argument 'amsgrad'
+Exception ignored in: <function WeakValueDictionary.__init__.<locals>.remove at 0x2b51cdae52f0>
+Traceback (most recent call last):
+  File "/beegfs/ga4493/projects/groupb/environments/torch/lib/python3.5/weakref.py", line 117, in remove
+TypeError: 'NoneType' object is not callable
