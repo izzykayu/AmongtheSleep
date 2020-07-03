@@ -41,9 +41,9 @@ REM onset, Maintenance of Wakefulness, and Sedentary test.
 ### Related Work
 
 ● [Evaluate different machine learning techniques for classifying sleep stages on
-single-channel EEG](http://ieeexplore.ieee.org/document/8025949/?reload=true)
-● [Mixed Neural Network Approach for Temporal Sleep Stage Classification](https://arxiv.org/pdf/1610.06421.pdf)
-● [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
-● [A Machine Learning Approach to Classify Sleep Stages of Rats](https://pdfs.semanticscholar.org/92be/93502b485cc26f16f7b96adc5dba0b1e2875.pdf)
+single-channel EEG](http://ieeexplore.ieee.org/document/8025949/?reload=true) <br>
+● [Mixed Neural Network Approach for Temporal Sleep Stage Classification](https://arxiv.org/pdf/1610.06421.pdf) <br>
+● [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf) <br>
+● [A Machine Learning Approach to Classify Sleep Stages of Rats](https://pdfs.semanticscholar.org/92be/93502b485cc26f16f7b96adc5dba0b1e2875.pdf) <br>
 
 The final model is for a course in Deep Learning, this model still requires fine tuning to improve the performance.
